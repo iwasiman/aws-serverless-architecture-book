@@ -4,4 +4,6 @@
 
 はてなブログの以下の記事の掲載用です。  
 『【感想】『AWSによるサーバーレスアーキテクチャ』：前編』  
+https://iwasiman.hatenablog.com/entry/20210329-serverless-arch-on-aws  
 『【感想】『AWSによるサーバーレスアーキテクチャ』：後編』  
+https://iwasiman.hatenablog.com/entry/20210405-serverless-arch-on-aws  
